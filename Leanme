@@ -20,5 +20,5 @@
     Crear la Clase Contacto que deriva de persona y añade (correo, lista de telefonos<<ArrayList>>), métodos: agregarTelefono(), eliminarTelefono(), agregarCorreo() - Sin asignar
     Crear la Clase telefono con tipo (móvil/fijo) clave país, número, getters/setters  - Sin asignar
     Crear clase Agenda con: lista de contactos (ArrayList<Contacto>) métodos:agregarContacto(),eliminarContacto(),buscarContacto(),mostrarContactos() - Sin asignar
-    Crear clase Principal con el método main para probar las demás clases - Sin asignar
-    Crear un menú para la clase Principal con opciones para agregar, eliminar, buscar y mostrar contactos - Sin asignar
+    Crear clase Principal con el método main para probar las demás clases - Eliel
+    Crear un menú para la clase Principal con opciones para agregar, eliminar, buscar y mostrar contactos - Eliel
